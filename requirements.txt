@@ -1,0 +1,6 @@
+streamlit>=1.40
+openai>=1.40
+google-genai>=1.0
+gTTS>=2.5
+imageio-ffmpeg>=0.5
+anthropic>=0.40
